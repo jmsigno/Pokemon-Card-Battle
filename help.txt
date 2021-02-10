@@ -1,0 +1,36 @@
+/- - - - - - - - - - - - - - - - - - - - HOW TO PLAY - - - - - - - - - - - - - - - - - - - - - - - - - - - -/
+
+Battle Mode
+
+For starters, player will get 3 random Pokémon in his deck.
+Once palyer chooses battle mode, cpu will randomly select 3 Pokémon as opponent.
+This is a ‘best of 3 rounds’ type of battle.
+Battle starts with the 1st Pokémon picked by both player and cpu up to the 3rd.
+The match between 2 Pokémon includes attacking each other by deducting an attack points from the opponent’s life points.
+The round will stop if one of the Pokémon life points reaches 0.
+Pokémon with Life points greater than 0, wins.
+Player with most winning Pokémon wins the battle and will get reward.
+
+Pokémon Evolution
+At the account registration, 3 Pokémon are automatically given as starter.
+A way to acquire new and stronger Pokémon is to evolve existing Pokémon in the deck.
+Pokémon Evolution
+By winning battles, the player will earn evolution points.
+These points are used to evolve Pokémon.
+Evolving Pokémon means unlocking and acquiring new and stronger Pokémon.
+Note; not all Pokémon can be evolved.
+
+Rewards for winning battles:
+-	Rank Points: you will get rank points on every battle you win for you to be able to rank up.
+-	Evolution Points: You will get an evolution points for you to evolve your Pokémon to unlock new and stronger Pokémon.
+
+Consequences for losing a battle:
+-	Lose battle, lose rank points:
+-	Ranking depends on the player rank points, so to avoid losing rank points, make sure you win a lot of battles.
+-	Tip: Evolve your Pokémon.
+
+A Challenge for players.
+-	Difficulty rises as your rank. The higher your rank the difficult the opponent you will face.
+-	Difficult opponent means stronger Pokémon. Make sure you evolve Pokémon to acquire stronger ones.
+
+/ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  - - - - - - - - - - - - - /
